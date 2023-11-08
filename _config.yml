@@ -1,30 +1,30 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Shravya Munugala
+description: My CV
+taglong: My CV
+tagshort: 
+url: https://shravya29m.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/Shravya29M/shravya29m.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: Shravya Munugala
+  email: shravya29munugala@gmail.com
+photo: /assets/jpg/p1.jpg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  facebook: 
+  github: Shravya29M
+  instagram: shravyamunugala
+  linkedin: shravya-munugala-40b549252
+  stackoverflow: 
+  twitter: 
 
 # build settings
 
