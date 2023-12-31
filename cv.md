@@ -7,15 +7,24 @@ title: CV
 
 {% include contact.html %}
 
-## S
+## Education
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+* B.Tech in Computer Science 
+    Vellore Institute of Technology, Chennai
+    CGPA 8.66
+    2021 - Present
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+* Class 12
+    Excellencia College, Hyderabad
+    95%
+    2021
 
-### Subsection
+* Class 10
+    Jubilee Hills Public School
+    92%
+    2019
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Skills
+
+*
