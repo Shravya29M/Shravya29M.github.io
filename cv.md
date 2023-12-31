@@ -9,7 +9,7 @@ title: CV
 
 ## Education
 
-* B.Tech in Computer Science 
+* B.Tech in Computer Science /n
     Vellore Institute of Technology, Chennai
     CGPA 8.66
     2021 - Present
@@ -25,7 +25,7 @@ title: CV
     2019
 
 
-### Skills
+## Skills
 
 * C and C++
 * Python
