@@ -15,7 +15,7 @@ title: CV
     2021 - Present
 
 * Class 12
-    Excellencia College, Hyderabad
+   ** Excellencia College, Hyderabad
     95%
     2021
 
@@ -27,4 +27,8 @@ title: CV
 
 ### Skills
 
-*
+* C and C++
+* Python
+* Java
+* MySQL
+* HTML
