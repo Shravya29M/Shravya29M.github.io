@@ -26,7 +26,7 @@ As a passionate and driven third-year Computer Science student, I thrive on tack
 
 
 ## Work Experience
-* Head of HR and Management
+* Head of HR and Management  
 PlaceXP, VIT Chennai  
 In the short period since assuming this role, I have learned tremendous amounts about leadership, responsibility, and the intricacies of managing a team or department.
 
@@ -41,22 +41,19 @@ In the short period since assuming this role, I have learned tremendous amounts 
 
 
 ## Projects
-* Center Embedded Pixel Positioning
+* Center Embedded Pixel Positioning  
 Employing CEPP (Content Extraction through Post-processing), we
-effectively address the constraints of traditional image steganography.  
+effectively address the constraints of traditional image steganography.    
 Even post-cropping, the embedded text remains accessible,
 overcoming previous limitations. Moreover, to enhance security
 measures, I encrypted the data before embedding it into the image,
 adding an additional layer of protection.
 
-* Skin Cancer Detection System:
-At the VIT internal hackathon for the Smart India Hackathon, our team
-of six developed a sophisticated skin cancer detection system. By
-inputting an image, our system swiftly classifies it as either malignant
-or benign. We're enthusiastic about its potential to improve early
-diagnosis and treatment of skin cancer.  
+* Skin Cancer Detection System  
+At the VIT internal hackathon for the Smart India Hackathon, our team of six developed a sophisticated skin cancer detection system.  
+By inputting an image, our system swiftly classifies it as either malignant or benign. We're enthusiastic about its potential to improve early diagnosis and treatment of skin cancer.   
 
-* AI and ML course at the National University Of Singapore
+* AI and ML course at the National University Of Singapore  
 During a week-long program at NUS, I had the privilege to immerse
 myself in an intensive study of AI and ML. Through comprehensive
 sessions and hands-on workshops, I gained invaluable insights into
